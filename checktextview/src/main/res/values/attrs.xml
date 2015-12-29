@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="checkText" format="string"></attr>
+    <attr name="checkTextColor" format="color"></attr>
+    <attr name="checkTextSize" format="dimension"></attr>
+    <declare-styleable name="CheckTextView">
+        <attr name="checkText"/>
+        <attr name="checkTextColor"/>
+        <attr name="checkTextSize"/>
+    </declare-styleable>
+</resources>
